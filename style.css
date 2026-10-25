@@ -4,3 +4,6 @@ main { padding: 20px; }
 .card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,.2); }
 .card h2 { color: #d84315; margin: 0 0 5px; }
 footer { text-align: center; padding: 15px; background: #eee; }
+nav { background: #bf360c; text-align: center; padding: 10px; }
+nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
