@@ -55,16 +55,15 @@ git log --oneline
 Screenshots
 The screenshots folder contains:
 
-website.png
-mobile.png
+docker-site.png
 git-log.png
 github-repo.png
-github-commits.png
-docker-site.png
-jenkins-config.png
-jenkins-stages.png
 jenkins-console.png
-Author
+jenkins-stages.png
+mobile.png
+website.png
+
+Author:
 Rohan Yelapure
 
 Project Status
@@ -86,5 +85,27 @@ Completed Successfully
 
 ✅ Documentation Completed
 =======
+Screenshots
+Website
 
->>>>>>> dd9f32202f9e368a77aa5bd5a538bbb18ee1688a
+
+Mobile
+
+
+Git Log
+
+GitHub Repo
+
+
+GitHub Commits
+
+
+Docker Site
+
+
+Jenkins Config
+
+Jenkins Stages
+
+
+Jenkins Console
