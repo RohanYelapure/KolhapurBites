@@ -7,3 +7,22 @@ footer { text-align: center; padding: 15px; background: #eee; }
 nav { background: #bf360c; text-align: center; padding: 10px; }
 nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
 nav a:hover { text-decoration: underline; }
+.about { background: white; margin: 20px; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,.2); }
+.about h2 { color: #d84315; }
+html { scroll-behavior: smooth; }
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 15px;
+}
+
+.card { margin-bottom: 0; transition: transform 0.2s; }
+.card:hover { transform: translateY(-4px); }
+
+header { background: linear-gradient(135deg, #d84315, #ff8f00); }
+
+@media (max-width: 600px) {
+  header h1 { font-size: 24px; }
+  nav a { display: block; margin: 8px 0; }
+}
