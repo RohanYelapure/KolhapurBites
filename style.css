@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #fff8f0; margin: 0; }
+header { background: #d84315; color: white; text-align: center; padding: 25px; }
+main { padding: 20px; }
+.card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,.2); }
+.card h2 { color: #d84315; margin: 0 0 5px; }
+footer { text-align: center; padding: 15px; background: #eee; }
