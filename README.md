@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 KolhapurBites
 Project Description
 KolhapurBites is a responsive food website developed using HTML and CSS. This project demonstrates Git, GitHub, Docker, and Jenkins integration in a complete DevOps workflow.
@@ -84,3 +85,6 @@ Completed Successfully
 ✅ Jenkins Build Execution
 
 ✅ Documentation Completed
+=======
+
+>>>>>>> dd9f32202f9e368a77aa5bd5a538bbb18ee1688a
