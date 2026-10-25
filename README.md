@@ -54,7 +54,6 @@ git pull
 git log --oneline
 Screenshots
 The screenshots folder contains:
-
 docker-site.png
 git-log.png
 github-repo.png
@@ -85,27 +84,3 @@ Completed Successfully
 
 ✅ Documentation Completed
 =======
-Screenshots
-Website
-
-
-Mobile
-
-
-Git Log
-
-GitHub Repo
-
-
-GitHub Commits
-
-
-Docker Site
-
-
-Jenkins Config
-
-Jenkins Stages
-
-
-Jenkins Console
